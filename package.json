@@ -1,5 +1,5 @@
 {
-  "name": "methods",
+  "name": "symbol-iterator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KatrinaAnt/Methods.git"
+    "url": "git+https://github.com/KatrinaAnt/Symbol-Iterator.git"
   },
   "author": "Katrina",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KatrinaAnt/Methods/issues"
+    "url": "https://github.com/KatrinaAnt/Symbol-Iterator/issues"
   },
-  "homepage": "https://github.com/KatrinaAnt/Methods#readme",
+  "homepage": "https://github.com/KatrinaAnt/Symbol-Iterator#readme",
   "devDependencies": {
     "@babel/cli": "^7.24.7",
     "@babel/core": "^7.24.7",
